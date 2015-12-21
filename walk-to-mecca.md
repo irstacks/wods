@@ -1,10 +1,14 @@
 # Walk to Mecca
 
-10!x2, 
-circuit at each interval, with 20# vest
+#### 10!x2 (10, 9, 8, .. 8, 9, 10)
+w/ 20lb vest <br>
 (back and forth across a football field etc)
 
-Lunges (hands up)
-Push ups
-Mtn climbers
+{
+
+Lunges (hands up) <br>
+Push ups <br>
+Mtn climbers <br>
 Burpees
+
+}

@@ -1,12 +1,20 @@
-# Sinister Mister Aplinister
+# Sinister Mister Alpinister
 
-run a mile
 
-{
-squat kettle belle shoulders 15/25 uneven sided (x20)
-Climb peg board, up and down (x1) 
-mtn climbers (x20) 
-24" jumpups (x20) 
-} x4 
+__up__
+run a mile 
+
+
+__party__
+
+4x { <br>
+squat kettle belle shoulders 15/25 uneven sided (x20) <br>
+Climb peg board, up and down (x1) <br>
+mtn climbers (x20) <br>
+24" jumpups (x20) <br>
+}
+<br>
+
+__down__
 
 yoga with the locals

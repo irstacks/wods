@@ -1,22 +1,26 @@
 # Pukey-E
 
-3x 
-{
-(Burpees x15
-~45# Dumbbell cleans x5/side) x3
+
+__Up__
+
+3x { <br>
+Burpees x15 <br>
+~45# Dumbbell cleans x5/side <br>
 }
 
-Fran 
+__Fran__
+
 {
-21-15-9
-95# thrusters
-Pullups
+21-15-9 <br>
+95# thrusters <br>
+Pullups <br>
 }
 
-3x 
-{
-21 knees to elbows
-15 Burpees
-9 Dips
-3 Pistols /side
+__Even more party__
+
+3x { <br>
+21 knees to elbows <br>
+15 Burpees <br>
+9 Dips <br>
+3 Pistols /side <br>
 }
