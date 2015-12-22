@@ -4,6 +4,8 @@
 __up__
 run a mile 
 
+> 6:00
+
 
 __party__
 
@@ -14,6 +16,7 @@ mtn climbers (x20) <br>
 24" jumpups (x20) <br>
 }
 <br>
+> 18:23
 
 __down__
 
