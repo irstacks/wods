@@ -13,7 +13,7 @@ any order. just get em done.
 ```
 4x 
 {
-15 dead lifts @ your body weight or 80% capacity (whichever is bigger)
+15 dead lifts @ 75-80% body weight
 run 400m  
 15 toes to bar 	
 }
