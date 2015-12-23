@@ -1,10 +1,14 @@
 # Swing Thing
 
-deck o cards
+deck o cards <br>
 @ kb 1pood
 
-- pushups
-- kb oh cleans /side
-- kb swings
-- kb squats
-*Jokers are 5 HSPU
+&hearts; pushups <br>
+&diams; kb oh cleans /side <br>
+&spades; kb swings <br>
+&clubs; kb squats <br>
+__J__ jokers @ 5 HSPU
+
+
+
+
