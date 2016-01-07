@@ -9,7 +9,7 @@
 }
 
 
-#### Party
+#### Dance Party
 
 4x { <br>
 1pood kb single-sided OH-snatches (x10) <br>
