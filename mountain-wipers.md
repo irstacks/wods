@@ -2,8 +2,13 @@
 
 Deck o cards
 
-&hearts; situps <br>
-&diams; windshield wipers	<br>
-&spades; mtn<br>
-&clubs; bikerz<br>
-**J**okers @ 1min handstand<br>
+&hearts; situps 
+
+&diams; windshield wipers	
+
+&spades; mtn
+
+&clubs; bikerz
+
+**J**okers @ 1min handstand
+

@@ -5,4 +5,4 @@ Deck o cards
 - pushups
 - burpees
 - HSPU /2 round up
-*Jokers are 400m run
+- *Jokers are 400m run
