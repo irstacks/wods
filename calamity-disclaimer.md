@@ -15,7 +15,7 @@ Partner carry 400m each twice. Strivers should have their partner also hold a 1p
 - Wall sit while holding breath
 - Thrusters @90/65lb for total of 100
 
-(Bar can never touch the ground)
+(If the bar touches the ground, 10 pushups each.)
 
 ----
 
